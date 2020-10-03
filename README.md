@@ -1,1 +1,1 @@
-# crypto manager
+# crypto manager (personal use only)
